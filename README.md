@@ -6,9 +6,10 @@ I'm a **Senior Software Engineer** with 5 years of experience in the information
 
 ## 🛠 Skills
 
-- **Languages & Frameworks:** Node.js, JavaScript, Angular, React.js, Redux
-- **Backend Technologies:** Express, gRPC Microservices
-- **Databases:** MongoDB, MySQL, Sequelize
+- **Languages & Frameworks:** JavaScript, Typescript, Angular, React.js, Redux, Express
+- **Backend Technologies:** NodeJs, gRPC Microservices
+- **Databases:** Posgtgres, MongoDB, SQL
+- **ORM:** Sequelize
 - **DevOps & Tools:** Git, Liquibase
 
 ## 📫 How to Reach Me
