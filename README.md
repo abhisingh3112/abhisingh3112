@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Abhishek Singh
-- 👀 I’m interested in facing challenges that includes research and development, and logical thinking
-- 🌱 I’m currently learning google analytics awith bigquery integration along with bigquery API
-- 💞️ I’m looking to collaborate on blockchain projects(does not have much hands-on experience on it as of now)
-- 📫 How to reach me - abhisheksingh3195@gmail.com
+# Hi there, I'm Abhishek Singh 👋
 
-<!---
-abhisingh3112/abhisingh3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a **Senior Software Engineer** with 5 years of experience in the information technology and services industry. I have a strong engineering background with a Bachelor of Technology (BTech) focused in Computer Science from Echelon Institute of Technology. My expertise lies in both frontend and backend development, with a diverse skill set in various modern technologies.
+
+## 🛠 Skills
+
+- **Languages & Frameworks:** Node.js, JavaScript, Angular, React.js, Redux
+- **Backend Technologies:** Express, gRPC Microservices
+- **Databases:** MongoDB, MySQL, Sequelize
+- **DevOps & Tools:** Git, Liquibase
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** https://www.linkedin.com/in/abhishek-singh-646654164
+- **Email:** abhisheksingh3195@gmail.com
+
+Thanks for visiting my profile!
