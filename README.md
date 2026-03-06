@@ -59,6 +59,9 @@ Currently working as a **Senior Software Engineer at a leading software services
 ![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-4F46E5?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
 
