@@ -14,7 +14,6 @@
   <a href="https://github.com/abhisingh3112">
     <img src="https://img.shields.io/badge/GitHub-abhisingh3112-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Faridabad%2C%20India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=abhisingh3112&style=flat-square&color=6366f1" alt="Profile Views" />
 </p>
 
